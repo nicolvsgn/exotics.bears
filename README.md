@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -88,4 +87,3 @@
     </footer>
     <script src="carrito.js"></script>
 </body>
-</html>
